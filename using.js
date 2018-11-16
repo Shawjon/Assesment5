@@ -1,18 +1,22 @@
 function rightAnswer1(){
     sleep(3000);
     resetAera("answer-1");
+    alert("That is correct!");
 }
 function rightAnswer2(){
     sleep(3000);
     resetAera("answer-2");
+    alert("That is correct!");
 }
 function rightAnswer3(){
     sleep(3000);
     resetAera("answer-3");
+    alert("That is correct!");
 }
 function rightAnswer4(){
     sleep(3000);
     resetAera("answer-4");
+    alert("That is correct!");
 }
 function wrongAnswer1(){
     sleep(3000);
