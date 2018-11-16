@@ -1,3 +1,7 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
 div{
     border:black solid 3px;
     padding: 3px;
@@ -14,10 +18,13 @@ h1{
 
 }
 h2{
+    color: aliceblue;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    border: #0d0d24 dashed 4px;
-    font-size: 40px;
+    border: #aaaae0 dashed 10px;
+    font-size: 43px;
+    background-color: rgb(43, 79, 199);
+    border-radius: 25px;
     
     display: flex;
     justify-content: center;
@@ -39,7 +46,7 @@ span{
     border:rgb(1, 2, 82) solid 6px;
     padding: 3px;
     border-radius: 9px;
-    margin: 3px;
+    margin: 10px;
 }
 h3{
     
@@ -51,7 +58,7 @@ h3{
 div{
     font-size: 100%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 3px;
+    margin: 10px;
 
 }
 .button:hover {
